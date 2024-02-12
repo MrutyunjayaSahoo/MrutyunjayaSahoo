@@ -6,13 +6,16 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 - 📫 How to reach me :
 - <br>                                                                                                                                                                                                
     Email: msahoo4234@gmail.com                                                                                                                                                                                       <br>
-    LinkedIn: https://www.linkedin.com/in/mrutyunjaya-sahoo12                                                                                                                                                         <br>
-    Twitter: https://twitter.com/MSahoo112
-<br>
+    LinkedIn: https://www.linkedin.com/in/mrutyunjaya-sahoo12 
+    <br>
+    Twitter: https://twitter.com/MSahoo112 <br>
     Discord: http://discordapp.com/users/mrutyunjaya_sahoo
 
-Teck Stack
+**Teck Stack**
+<br>
+
 ![html5-logo-devextreme-multi-purpose-controls-html-javascript-3](https://github.com/MrutyunjayaSahoo/MrutyunjayaSahoo/assets/126356359/cb1cbf4b-ab94-4d95-b069-6e31f8b1a8bf)
+<br>
 <br>
 
 ![image](https://github.com/MrutyunjayaSahoo/MrutyunjayaSahoo/assets/126356359/9fd23843-d389-476b-8d20-549203c6c370)
