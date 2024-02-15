@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 
 ![html5-logo-devextreme-multi-purpose-controls-html-javascript-3](https://github.com/MrutyunjayaSahoo/MrutyunjayaSahoo/assets/126356359/cb1cbf4b-ab94-4d95-b069-6e31f8b1a8bf)
 <br>
-<br>
 **Teck Stack**
-![image](https://github.com/MrutyunjayaSahoo/MrutyunjayaSahoo/assets/126356359/9fd23843-d389-476b-8d20-549203c6c370)
+
+<img width="350" alt="86617677-3937d900-bf7d-11ea-9b75-379585d23c2a" src="https://github.com/MrutyunjayaSahoo/MrutyunjayaSahoo/assets/126356359/914de3f8-4101-44e6-b212-96ca0a97f93d"> <br>                               ![image](https://github.com/MrutyunjayaSahoo/MrutyunjayaSahoo/assets/126356359/9fd23843-d389-476b-8d20-549203c6c370)
 
