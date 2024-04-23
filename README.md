@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I'm passionate about technology and always eager t
 - 🌱 I'm currently learning and improving my skills in areas like web development, UI/UX. 
 - 💞️ I'm open to collaborating on interesting projects related to my interests. If you have a project in mind and think I can contribute, feel free to reach out. Let's create something amazing together!
 - 📫 How to reach me :
-- <br>                                                                                                                                                                                                
-    Email: msahoo4234@gmail.com                                                                                                                                                                                       <br>
+  <br>Email: msahoo4234@gmail.com                                                                                                                                                                     <br>
     LinkedIn: https://www.linkedin.com/in/mrutyunjaya-sahoo12 
     <br>
     Twitter: https://twitter.com/MSahoo112 <br>
