@@ -1,7 +1,7 @@
 -👋 Hi there, I'm Mrutyunjaya Sahoo
 Welcome to my GitHub profile! I'm passionate about technology and always eager to learn new things. 
-- 👀 I’m interested in Web development,open-source projects,python.
-- 🌱 I'm currently learning and improving my skills in areas like machine learning, web development, and data science. 
+- 👀 I’m interested in Web development, UI/UX, Web Design.
+- 🌱 I'm currently learning and improving my skills in areas like web development, UI/UX. 
 - 💞️ I'm open to collaborating on interesting projects related to my interests. If you have a project in mind and think I can contribute, feel free to reach out. Let's create something amazing together!
 - 📫 How to reach me :
 - <br>                                                                                                                                                                                                
